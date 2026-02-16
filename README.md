@@ -1,2 +1,2 @@
 # first_project
-github_test_project
+«Тестовый репозиторий для работы с GitHub»
